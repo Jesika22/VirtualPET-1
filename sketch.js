@@ -40,6 +40,7 @@ function draw() {
 
 //Function to read values from DB
 function readStock(data){
+  
   foodS=data.val();
 }
 
